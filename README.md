@@ -8,4 +8,5 @@ My goal is to see trends in the time series of each country of origin as well as
 
 I'm using autocorrelation and LSTM's to predict the time series events for future refugee numbers.
 
-Included and hopefully enriching is the CIA factbook from [here](https://github.com/factbook/factbook.sql)
+Included and hopefully enriching is the CIA factbook from [here](https://github.com/factbook/factbook.sql).
+
