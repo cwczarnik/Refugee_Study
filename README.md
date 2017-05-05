@@ -1,4 +1,4 @@
-## Looking into trends in refugee data, a case study of both the world and the United States.
+## Looking into trends in refugees, worldwide and in the United States.
 
 Using Multiple Datasets from [UNHRC](http://popstats.unhcr.org/en/time_series) 
 
