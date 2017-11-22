@@ -32,5 +32,5 @@ My goal is to add as many population features as I can for each country to paint
 
 ### Main Notebook
 
-This [notebook](https://github.com/cwczarnik/Refugee_Study/blob/master/Notebooks/refugee_basics.ipynb) is the main and basic exploration of the data, the others are useful application that I'm iterating on.
+This [notebook](https://github.com/cwczarnik/Refugee_Study/blob/master/Notebooks/refugee_basics.ipynb) is the main and basic exploration of the data, the others are useful projects as well that I'm iterating on.
 In this notebook there are plots of time series as well as maps of country of origin and population counts.
